@@ -15,7 +15,10 @@ public class ProyectoEntornos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("uwu");// TODO code application logic here
+        System.out.println("uwu");
+        System.out.println(1);
+        System.out.println(2);
+        // TODO code application logic here
     }
     
 }
